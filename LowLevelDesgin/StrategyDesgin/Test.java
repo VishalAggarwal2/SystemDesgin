@@ -1,7 +1,7 @@
 import Strategy.DriveStartegy.NormalDrive;
 import Strategy.DriveStartegy.SpecialDrive;
 
-public class Test {
+public class    Test {
 
 // bahut jayda jaruri pattern hai yaad rakho kaab use karna hota hai
 // jab jab within child sa kuch common property ati hai tab yeh use karna hota hai
