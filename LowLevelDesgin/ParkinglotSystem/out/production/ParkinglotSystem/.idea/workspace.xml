@@ -5,32 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60088f08-a112-4f20-a409-5aa4d9b1c8aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/EntranceGate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExitGate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FourWheelerParkingArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ParkingArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ParkingSlot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy/CostCalculationStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy/ParkingSlotChoosStrategy.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwowheelerVeichleParkingArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Veichle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VeichleType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ParkinglotSystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ParkinglotSystem.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Enum" />
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -51,9 +31,6 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2wa97jzWpngKeeMTGOTU7lcIBXl" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,10 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/vishalaggarwal/Desktop/SystemDesgin/LowLevelDesgin/ParkinglotSystem",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "last_opened_file_path": "/Users/vishalaggarwal/Desktop/SystemDesgin/LowLevelDesgin/ParkinglotSystem"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
