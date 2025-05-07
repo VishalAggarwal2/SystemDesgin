@@ -8,14 +8,10 @@
       <change afterPath="$PROJECT_DIR$/Direction.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Elevator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ElevatorCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExternalButtonElevatorRequest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ExternalDisplay.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InternalButtonElevatorRequest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/InternalDisplay.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ElevatorSystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ElevatorSystem.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
